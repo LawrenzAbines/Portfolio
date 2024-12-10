@@ -22,7 +22,7 @@ const ProjectCardData = [
   {
     imgsrc: pro3,
     title: "Quiz Game",
-    text: "My third simple project: a quiz game using HTML, CSS, and JavaScript. It can be used to check someone's knowledge regarding HTML. The user will answer 5 questions and see the result afterward.",
+    text: "My third simple project: a quiz game. It can be used to check someone's knowledge of HTML. The user will answer 5 questions and see the result afterward.",
     view: "https://lawrenzabines.github.io/Quiz-Game/",
     source: "https://github.com/LawrenzAbines/Quiz-Game",
   },
