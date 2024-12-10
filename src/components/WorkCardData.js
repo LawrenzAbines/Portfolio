@@ -2,6 +2,7 @@ import pro1 from "../assets/calculator.png";
 import pro2 from "../assets/mini browser.png";
 import pro3 from "../assets/quizgame.png";
 import pro4 from "../assets/weatherapp.png";
+import pro5 from "../assets/tindog.png";
 
 const ProjectCardData = [
   {
@@ -31,6 +32,13 @@ const ProjectCardData = [
     text: "My simple project weather app using react.js. This is my first simple project using react JS, I also followed instruction from youtube and modified some designs",
     view: "https://lucky-lamington-2a9be7.netlify.app/",
     source: "https://github.com/LawrenzAbines/Weather-application",
+  },
+   {
+    imgsrc: pro5,
+    title: "Tindog-project",
+    text: "One of my projects from Udemy course by Dr. Angela Yu. I love Dr. Angela's teaching style. She carfully explain every part and walkthrough every process",
+    view: "https://tindog-projecttt.netlify.app/",
+    source: "https://lawrenzabines.github.io/Tindog-project/",
   },
 ];
 
