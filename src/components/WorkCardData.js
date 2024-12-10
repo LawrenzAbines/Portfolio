@@ -36,7 +36,7 @@ const ProjectCardData = [
    {
     imgsrc: pro5,
     title: "Tindog-project",
-    text: "One of my projects from Udemy course by Dr. Angela Yu. I love Dr. Angela's teaching style. She carfully explain every part and walkthrough every process",
+    text: "One of my projects from Udemy course by Dr. Angela Yu. I love Dr. Angela's teaching style. She carefully explain every parts and walkthrough every process",
     view: "https://tindog-projecttt.netlify.app/",
     source: "https://lawrenzabines.github.io/Tindog-project/",
   },
