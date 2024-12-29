@@ -3,6 +3,7 @@ import pro2 from "../assets/mini browser.png";
 import pro3 from "../assets/quizgame.png";
 import pro4 from "../assets/weatherapp.png";
 import pro5 from "../assets/tindog.png";
+import pro6 from "../assets/drumkit.png";
 
 const ProjectCardData = [
   {
@@ -38,7 +39,14 @@ const ProjectCardData = [
     title: "Tindog-project",
     text: "One of my projects from a Udemy course by Dr. Angela Yu. I love Dr. Angela's teaching style. She carefully explains every part and walks through every process.",
     view: "https://tindog-projecttt.netlify.app/",
-    source: "https://lawrenzabines.github.io/Tindog-project/",
+    source: "https://github.com/LawrenzAbines/Tindog-project",
+  },
+  {
+    imgsrc: pro6,
+    title: "Drum kit",
+    text: "One of my projects from a Udemy course by Dr. Angela Yu. I love Dr. Angela's teaching style. After this project, I bacame more interested with web development.",
+    view: "https://lawrenzdrumkit.netlify.app/",
+    source: "https://github.com/LawrenzAbines/Drum-kit",
   },
 ];
 
