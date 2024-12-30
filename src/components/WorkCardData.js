@@ -4,6 +4,7 @@ import pro3 from "../assets/quizgame.png";
 import pro4 from "../assets/weatherapp.png";
 import pro5 from "../assets/tindog.png";
 import pro6 from "../assets/drumkit.png";
+import pro7 from "../assets/simongame.png";
 
 const ProjectCardData = [
   {
@@ -44,9 +45,16 @@ const ProjectCardData = [
   {
     imgsrc: pro6,
     title: "Drum kit",
-    text: "One of my projects from a Udemy course by Dr. Angela Yu. I love Dr. Angela's teaching style. After this project, I bacame more interested with web development.",
+    text: "One of my projects from a Udemy course by Dr. Angela Yu. I love Dr. After this project, I bacame more interested with web development.",
     view: "https://lawrenzdrumkit.netlify.app/",
     source: "https://github.com/LawrenzAbines/Drum-kit",
+  },
+  {
+    imgsrc: pro7,
+    title: "Simon game",
+    text: ""One of my projects from a Udemy course by Dr. Angela Yu. I love Dr. This was one of my most challenging projects, and I spent hours debugging it
+    view: "https://lawrenzsimongame.netlify.app/",
+    source: "https://github.com/LawrenzAbines/Simon-Game",
   },
 ];
 
