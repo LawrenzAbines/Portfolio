@@ -52,7 +52,7 @@ const ProjectCardData = [
   {
     imgsrc: pro7,
     title: "Simon game",
-    text: ""One of my projects from a Udemy course by Dr. Angela Yu. I love Dr. This was one of my most challenging projects, and I spent hours debugging it.",
+    text: "One of my projects from a Udemy course by Dr. Angela Yu. I love Dr. This was one of my most challenging projects, and I spent hours debugging it.",
     view: "https://lawrenzsimongame.netlify.app/",
     source: "https://github.com/LawrenzAbines/Simon-Game",
   },
